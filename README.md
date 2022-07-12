@@ -4,6 +4,8 @@
 
 # Lirindo: Lines and Dots
 
+[![Watch the video](https://img.youtube.com/vi/yvJSoi7T1GM/0.jpg)](https://youtu.be/yvJSoi7T1GM)
+
 ## Описание:
 
 Lirindo: Lines and Dots - игра головоломка, где тебе предстоит проводить линии между точками.
@@ -31,3 +33,4 @@ Lirindo: Lines and Dots - игра головоломка, где тебе пр�
 Ссылка: [Apk](https://github.com/Lirindo/Lirindo-Lines-and-Dots/releases/download/Release/Lirindo-Lines-and-Dots-Dev_Build-1.0-Release.apk)
 -->
 Смотри Releases для большей информации.
+
